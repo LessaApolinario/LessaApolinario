@@ -89,14 +89,14 @@ I also enjoy learning and sharing knowledge about **software development, archit
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img
+    <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=LessaApolinario&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api?username=LessaApolinario&show_icons=true&theme=tokyonight"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LessaApolinario&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LessaApolinario&layout=compact&theme=tokyonight"
   />
 </p>
 
